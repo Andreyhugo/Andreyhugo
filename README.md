@@ -24,7 +24,7 @@ software.
   <a href=https://web.whatsapp.com/andreyhugo>
   <img src="https://img.shields.io/badge/Whatsapp-AndreyHugo-00BB2D?style=for-the-badge&logo=whatsapp&logoColor=fff">
   </a>
-  <a href=https://linkdin/andrey-hugo>
+  <a href=https://linkedin/andrey-hugo>
   <img src="https://img.shields.io/badge/linkedin-andreyhugo-0072B1?style=for-the-badge&logo=linkedin&logoColor=fff">
   </a>
 </p>
