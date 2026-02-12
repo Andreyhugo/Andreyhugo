@@ -22,7 +22,7 @@ software.
     <img src="https://img.shields.io/badge/Instagram-@andreyhugo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href=https://web.whatsapp.com/andreyhugo>
-  <img src="https://img.shields.io/badge/Whatsapp-AndreyHugo-00BB2D?style=for-the-badge&logo=whatsapp&logoColor=fff">
+  <img src="https://img.shields.io/badge/Whatsapp-(21)980501813-00BB2D?style=for-the-badge&logo=whatsapp&logoColor=fff">
   </a>
   <a href=https://www.linkedin.com/in/andrey-hugo/>
   <img src="https://img.shields.io/badge/linkedin-andreyhugo-0072B1?style=for-the-badge&logo=linkedin&logoColor=fff">
